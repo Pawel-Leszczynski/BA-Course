@@ -1,0 +1,59 @@
+Zadanie 1
+
+System zarządzania magazynem. Aplikacja webowa (lub desktopowa) wspierająca zarządzanie operacjami magazynowymi w firmie handlowej lub produkcyjnej. Program ma pomagać w kontroli stanów magazynowych, przyjęciu i wydaniu towarów, lokalizacji produktów oraz generowaniu raportów.
+
+Zadanie 2
+Do swojego projektu wybieram metodykę Scrum. Chciałbym nadmienić, że w rzeczywistości zamierzam stworzyć aplikację będącą systemem zarządzania magazynem. Będzie to mój realny projekt, a na bazie dotychczasowych doświadczeń z kodowaniem oraz wiedzy uzyskanej podczas drugiej lekcji, uważam, że metodyka Scrum będzie w tym przypadku bardziej odpowiednia.
+
+Z racji tego, że obecnie tworzę aplikację samodzielnie, nie potrzebuję tak rozbudowanej dokumentacji, jaka jest charakterystyczna dla metodyk typu Waterfall. Jednak na potrzeby kursu zakładam, że docelowo zespół będzie liczył 5–8 osób, w skład którego wejdą: Product Owner/Scrum Master, developerzy, tester oraz designer.
+
+Podzielenie projektu na etapy oraz mniejsze moduły – np. moduł logowania, moduł dodawania produktu na stan magazynowy czy baza danych – będzie łatwiejsze do wykonania dla programistów, prostsze w nawigowaniu, stawianiu kolejnych celów do osiągnięcia oraz w ogólnym zarządzaniu i prowadzeniu projektu. Mniejsze elementy układanki lepiej wpisują się w charakterystykę sprintów w metodyce Scrum.
+
+Uważam, że Scrum idealnie sprawdza się w przypadku mniejszych zespołów pracujących modularnie. Codzienne spotkania (daily) sprzyjają komunikacji i synergii w małym zespole, a współpraca pomiędzy Product Ownerem, developerami i testerami będzie mocną stroną tej metodyki.
+
+
+Zadanie 3 
+
+Interesariuszy mojego projektu mozna podzielic na 3 grupy: wewnetrzni, zewnetrzni, oraz posredni.
+
+Do pierwszej grupy, czyli interesariuszy wewnętrznych, należą wszystkie osoby bezpośrednio zaangażowane w proces tworzenia produktu:
+
+- Produkt owner
+- scrum master
+- developerzy
+- testerzy
+- desinerzy
+
+Do grupy interesariuszy zewnętrznych zaliczają się osoby decyzyjne, które nie biorą czynnego udziału w produkcji aplikacji:
+
+- wlascicilel aplikacji
+- sponsorzy
+- klienci, w tym użytkownicy końcowi – np. pracownicy magazynu korzystający z programu
+- kierwonictwo magazynu lub zarzad
+
+Grupę interesariuszy pośrednich tworzą osoby, które nie mają wpływu na podejmowanie decyzji ani nie uczestniczą w procesie wytwarzania produktu. Są jednak pośrednimi adresatami aplikacji:
+
+- potencjalni partnerzy biznesowi
+- konkurecja
+- uzytkownicy testujacy (beta testerzy)
+- wsparcie IT
+- administratorzy
+
+
+Uczestnicy przykladowego spotkania interesariuszy wewnetrznych:
+Prowadzacy Business Analityk
+Product Owner
+Scrum Master
+Developerzy
+Designer
+Tester
+Prowadzacy - BA
+
+Agenda spotkania interesariuszy:
+
+10:00 - 10:05 BA: Powitanie oraz przedstawienie uczestnikow spotkania.
+10:05 - 10:10 Product Owner: Krotkie przypomnienie celu spotkania, np stan zawansowania wytwarzania produktu
+10:10 - 10:30 Developerzy i Designer: Zaprezentowanie stanu produktu, poziom zaawansowania prac nad poszczegolnymi modulami.
+10:30 - 10:45 Produkt Owner: Zebranie opini, sugestii od interesariuszy 
+10:45 - 10:55 Scrum Master: Przedstawienie planu nadchodzacy sprint
+10:55 - 11:00 BA: podziekowanie uczestnikom za odbyte spotkanie
